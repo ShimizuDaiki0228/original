@@ -1,0 +1,5 @@
+require 'sinatra/activerecord'
+require 'sinatra/activerecord/rake'
+require './models/bottom.rb'
+require './models/contribution.rb'
+require './models/user.rb'
